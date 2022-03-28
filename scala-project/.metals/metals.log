@@ -17,3 +17,12 @@ x ** x
 2022.03.28 16:59:29 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.49s
 2022.03.28 16:59:43 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.24s
 2022.03.28 16:59:50 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.11s
+2022.03.28 17:02:10 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.12s
+2022.03.28 17:02:18 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.12s
+2022.03.28 17:02:58 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.34s
+2022.03.28 17:02:59 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.83s
+2022.03.28 17:03:14 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.7s
+2022.03.28 17:03:21 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.69s
+2022.03.28 17:03:24 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.65s
+2022.03.28 17:04:01 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.67s
+2022.03.28 17:04:05 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.37s
